@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gary, an <a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gary, an <a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit">IT Professional</a>💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
