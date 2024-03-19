@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>Microsoft Azure</b>
   
-  - [Remote desktop setup](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Remote desktop setup](https://github.com/G-Code6/Remote-desktop/edit/main/README.md)
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
