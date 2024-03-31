@@ -4,7 +4,7 @@
 - <b>Microsoft Azure</b>
   
   - [Remote desktop setup](https://github.com/G-Code6/Remote-desktop)
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/G-Code6/Configuring-Active-Directory.)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
