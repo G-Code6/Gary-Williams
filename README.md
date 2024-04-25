@@ -9,6 +9,5 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/blob/main/README.md)
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
