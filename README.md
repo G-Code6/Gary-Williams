@@ -5,8 +5,7 @@
   
   - [Remote desktop setup](https://github.com/G-Code6/Remote-desktop)
   - [Configuring Active Directory within Azure VMs](https://github.com/G-Code6/Configuring-Active-Directory.)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
-
+ 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
