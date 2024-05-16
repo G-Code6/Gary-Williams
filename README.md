@@ -11,4 +11,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Example](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/blob/main/README.md)
 
-- <b>VPN Setup and Usage with (Proton VPN)</b>
+- <b>VPN Setup </b>
+  - [VPN Setup and Usage with (Proton VPN)](https://github.com/joshmadakoredmonds/post-install-config)
+
