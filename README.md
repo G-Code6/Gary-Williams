@@ -8,7 +8,6 @@
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/blob/main/README.md)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Example](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/blob/main/README.md)
 
 - <b>VPN Setup </b>
