@@ -1,6 +1,7 @@
 <h1>Hi, I'm Gary, an <a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit">IT Professional</a>💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>Microsoft Azure</b>
   
   - [Remote desktop setup](https://github.com/G-Code6/Remote-desktop)
