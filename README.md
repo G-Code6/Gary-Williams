@@ -12,5 +12,5 @@
   - [osTicket: Ticket Lifecycle Example](https://github.com/G-Code6/osTicket-Ticket-Creation-and-Lifecycle/blob/main/README.md)
 
 - <b>VPN Setup </b>
-  - [VPN Setup and Usage with (Proton VPN)](https://github.com/joshmadakoredmonds/post-install-config)
+  - [VPN Setup and Usage with (Proton VPN)](https://github.com/G-Code6/VPN-Setup-and-Usage-with-Proton-VPN/blob/main/README.md)
 
